@@ -57,6 +57,8 @@ axios(config)
 ## Things to Know
 
 - Routes folder contains the `Router` and `Controller` for notification and any future scope that needs Admin API.
+
+- The core pattern used behind selecting the notification provider is `Strategy Pattern`
   
 - `App.js` file has the cron job that for now runs every minute to send notifications to subscribers on their subscribed channel.
 
