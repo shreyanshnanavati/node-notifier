@@ -5,9 +5,9 @@ This project helps you schedule notifications through various mediums for your s
 ## Installation
 
 - Clone the project
-- Install node packages using npm i
-- make sure to copy .env.example and add the respective keys from the notification providers
-- run the project using npm run dev
+- Install node packages using `npm i`
+- make sure to copy `.env.example` and add the respective keys from the notification providers
+- run the project using `npm run dev`
 
 ## How to use the API?
 
